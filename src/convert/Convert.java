@@ -1,3 +1,5 @@
+package convert;
+
 public class Convert {
     final double WIDTH_IN_INCHES = 8.5;
     final double HEIGHT_IN_INCHES = 11.0;
